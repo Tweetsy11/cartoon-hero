@@ -7,11 +7,15 @@ header{
     background-color: #d14635;
     text-align: center;
     padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1, h2{
+    font-family: 'Press Start 2P', cursive;
 }
 
 header h1{
     color: white;
-    
 }
 
 header img{
